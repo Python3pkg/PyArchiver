@@ -4,7 +4,7 @@ PyArchiver Compression and Archiving Library
 @author: Clivern U{hello@clivern.com}
 """
 
-from __future__ import print_function
+
 import os
 import bz2
 import gzip
